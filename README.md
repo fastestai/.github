@@ -14,3 +14,4 @@ XCelsior is an AI-powered spreadsheet tool designed to revolutionize the way you
 XCelsior leverages state-of-the-art AI models to enhance your data workflow, enabling a wide range of tasks from data analysis to automation. Whether you're managing large datasets or generating insights, XCelsior ensures efficiency and precision.
 
 ℹ Learn more on [XCelsior Website](https://doc.xcelsior.ai)
+
