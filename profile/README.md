@@ -7,7 +7,6 @@ XCelsior is an AI-powered spreadsheet tool designed to revolutionize the way you
 
 [Watch this video](https://youtu.be/FfuETRdRtNY?si=r310_iGW1M01udr0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FfuETRdRtNY?si=vePIMZ6ZZk1dj4M7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ✓ No sign-up required. ✓ Free with premium features. ✓ No API key required.
 
